@@ -20,7 +20,7 @@ published: false
 
 ## できあがったもの
 
-![完成した家計・資産ダッシュボード](../images/ai-kakei-shisan-dashboard/dashboard-screenshot.png)
+![完成した家計・資産ダッシュボード](/images/ai-kakei-shisan-dashboard/dashboard-screenshot.png)
 *※ダッシュボード上の金額・銘柄等のデータはすべてダミーです*
 
 - 家計管理アプリの収支CSVを読み込んで月次収支・カテゴリ別支出をChart.jsで可視化
